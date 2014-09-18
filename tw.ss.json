@@ -5,8 +5,8 @@
 	"free":[
 		{"buildin":true, "desc":"东京", "server":"106.185.45.149"},
 		{"buildin":true, "desc":"加州", "server":"106.186.19.228"},
-		{"buildin":true, "desc":"青岛", "server":"115.28.20.25", "remote_port": "1028"},
-		{"buildin":true, "desc":"青岛", "server":"115.28.20.25", "remote_port": "1029"}
+		{"buildin":true, "desc":"青岛", "server":"115.28.20.25", "remote_port": "1030"},
+		{"buildin":true, "desc":"青岛", "server":"115.28.20.25", "remote_port": "1031"}
 	],
   "version": 1
 }
