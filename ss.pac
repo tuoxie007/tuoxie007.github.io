@@ -395,7 +395,6 @@ var domains = {
   "chosun.com": 1, 
   "baidu.jp": 1, 
   "philly.com": 1, 
-  "apple.com": 1, 
   "tweete.net": 1, 
   "nyt.com": 1, 
   "mingpaonews.com": 1, 
